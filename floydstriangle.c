@@ -2,7 +2,8 @@
 
 void main()
 
-	{		int r,n=1;
+	{		
+	int r,n=1;
 
 	
 
